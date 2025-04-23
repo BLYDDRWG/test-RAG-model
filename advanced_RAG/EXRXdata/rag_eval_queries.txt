@@ -1,0 +1,27 @@
+RAG EVALUATION QUERIES
+====================
+
+CARDIOVASCULAR ASSESSMENT QUERIES:
+1. "What interventions should I implement for a 25-year-old male with a VO2 max of 22 ml/kg/min from the Rockport Walk Test?"
+2. "My client has a consistently high heart rate response during the Rockport Walk Test despite moderate effort. What programming approach is best?"
+3. "A 32-year-old female client completed the Cooper 12-minute test but showed poor pacing with significant slowing in the final 4 minutes. What intervention should I prioritize?"
+4. "What's the appropriate programming for a client with fair range performance (1.2 miles) on the Cooper 12-minute test?"
+5. "My client shows inconsistent split times on the Concept 2 rower with good power but poor technique. What's the recommended approach?"
+
+POSTURE AND MOVEMENT ASSESSMENT QUERIES:
+1. "What corrective strategy should I use for a client presenting with classic upper cross syndrome?"
+2. "My client shows excessive forward lean during squat assessment. What interventions and programming modifications are appropriate?"
+3. "During push-up assessment, my client demonstrates lower back sagging after only 3 repetitions. What should I prioritize in their program?"
+4. "Assessment shows limited hip internal rotation with compensatory movement patterns. What's the best intervention sequence?"
+5. "My client has forward head posture and scapular winging. Which issue should I address first and what exercises should I include?"
+
+COMBINED ASSESSMENT QUERIES:
+1. "My client has poor cardiovascular fitness (VO2 max in poor range), upper cross syndrome, and limited ankle dorsiflexion. How should I structure their initial programming?"
+2. "Assessment results show good cardiovascular fitness but shoulder impingement and limited thoracic mobility. What's the most appropriate integrated approach?"
+3. "What's the best programming strategy for a client with lower cross syndrome who also demonstrates asymmetrical weight shift during push-ups and has average VO2 max?"
+4. "My client shows limited hip internal rotation, feet turning out during squats, and power drop-off during rowing tests. How should I prioritize interventions?"
+
+SITUATIONAL ADAPTATION QUERIES:
+1. "How should the programming approach for upper cross syndrome be modified for a beginner versus an advanced client?"
+2. "What modifications should I make to cardiovascular programming for a client with poor recovery rate if they're training for rehabilitation versus performance?"
+3. "How frequently should I reassess movement patterns for a client with multiple postural issues, and what metrics indicate successful intervention?"

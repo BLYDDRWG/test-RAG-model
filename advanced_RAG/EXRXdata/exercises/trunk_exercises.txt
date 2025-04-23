@@ -1,0 +1,108 @@
+Comprehensive Trunk/Spine Exercise Library
+
+Primary Trunk Exercises
+    Flexion Movements:
+        Crunch: Lying supine with knees bent, curl upper spine to elevate shoulders from floor
+        Sit-Up: Full spinal flexion from supine to seated position
+        Hanging Leg Raise: Suspended from bar, raise legs toward chest with controlled movement
+        Stability Ball Crunch: Crunch performed with back supported on stability ball
+        Cable Crunch: Kneeling flexion against cable resistance
+        Ab Wheel Rollout: Kneeling or standing, extending and returning rollout device with straight arms
+
+    Extension Movements:
+        Superman: Prone position lifting arms and legs simultaneously
+        Bird-Dog: Quadruped position extending opposite arm and leg
+        Back Extension: Using Roman chair or GHD to extend from flexed to neutral/extended position
+        Reverse Hyperextension: Prone on bench/machine with legs extending from hip joint
+        Good Morning: Hip hinge with barbell on back focusing on spinal position
+        Cobra Pose: Prone extension with arms pressing upper body away from floor
+
+    Rotational/Anti-Rotation Movements:
+        Russian Twist: Seated rotation touching weight to either side of body
+        Pallof Press: Resisting rotational force from cable/band while pressing outward
+        Medicine Ball Rotational Throw: Explosive rotational throw against wall
+        Cable Woodchop: Diagonal pulling pattern through rotational plane
+        Landmine Rotation: Rotational movement using barbell secured at one end
+        Barbell/Plate Rotation: Standing rotation while holding weight with extended arms
+
+    Lateral Flexion/Anti-Lateral Flexion:
+        Side Plank: Lateral support on elbow and feet/knees
+        Suitcase Carry: Asymmetrically loaded walking resisting lateral flexion
+        Side Bend: Standing lateral flexion with dumbbell
+        Copenhagen Plank: Side plank with top leg supported on bench
+        Windmill: Lateral flexion while maintaining extended arm overhead
+        Lateral Ball Roll: Side-lying on ball performing lateral flexion/extension
+
+    Bracing/Stabilization Patterns:
+        Plank Variations: Standard, forearm, extended arm, single leg/arm variations
+        Dead Bug: Supine contralateral limb movement with lumbar stabilization
+        Hollow Hold: Supine position with arms/legs extended and lower back pressed to floor
+        Bear Crawl Hold: Quadruped hover position with knees slightly off ground
+        Farmer's Carry: Upright walking while carrying heavy loads
+        Anti-Extension Plank: Forearm plank with feet elevated to increase anti-extension demand
+
+Secondary Trunk Integration Exercises
+    Trunk-Shoulder Integration:
+        Push-Up with Body Saw: Plank position with forward/backward shifting (integrates trunk with shoulder girdle)
+        Renegade Row: Alternating single-arm row from plank position (integrates trunk with shoulder girdle)
+        Single-Arm Overhead Press: Standing press with asymmetrical loading (integrates trunk with shoulder girdle)
+        Battle Rope Variations: Wave patterns requiring trunk stabilization (integrates trunk with shoulder girdle)
+        TRX Fallout: Suspended rollout pattern demanding anterior core control (integrates trunk with shoulder girdle)
+
+    Trunk-Hip Integration:
+        Kettlebell Swing: Hip-hinge dominant exercise requiring spinal stabilization (integrates trunk with hip girdle)
+        Turkish Get-Up: Floor-to-standing sequence maintaining overhead weight (integrates trunk with hip girdle and shoulder girdle)
+        Medicine Ball Slam: Overhead to ground explosive movement (integrates trunk with hip girdle and shoulder girdle)
+        Single-Leg Deadlift: Unilateral hip hinge requiring rotary stability (integrates trunk with hip girdle)
+        Deadlift: Bilateral hip extension with neutral spine maintenance (integrates trunk with hip girdle)
+
+    Total Body Integration:
+        Burpee: Floor-to-standing pattern combining multiple movement elements
+        Clean and Press: Compound lift from floor to overhead position
+        Thruster: Front squat transitioning to overhead press
+        Sandbag Get-Up: Lifting unstable load from ground to shoulder/overhead
+        Rope Climb: Full-body pulling with trunk stability and coordination
+        Sled Push/Pull: Total body power expression with rigid trunk positioning
+
+Specialized Training Methods
+    Breathing-Movement Integration:
+        90/90 Breathing: Hook-lying position with synchronized breathing and core activation
+        Dead Bug with Balloon: Exhaling through balloon during contralateral limb movement
+        Crocodile Breathing: Prone diaphragmatic breathing with pelvic floor awareness
+        Quadruped Breathing: All-fours position coordinating breath with subtle movements
+        Position-Specific Respiratory Training: Practicing proper breathing patterns under various loads
+
+    Anti-Movement Training:
+        Plank with Shoulder Tap: Resisting rotation while alternating hand lifts
+        Pallof Press Variations: Resisting rotation while pressing weight away from center
+        Suitcase Hold: Asymmetrical loading challenging lateral stabilization
+        Stability Ball Stir-the-Pot: Circular arm movements while maintaining plank on ball
+        Dead Bug with Resistance: Adding band resistance to limb movements
+
+    Functional Progression Methods:
+        Cook Hip Lift: Progressive hip extension with core activation sequence
+        Rolling Patterns: Developmental movement progressions from supine to prone
+        McGill Big 3: Targeted endurance protocol for spine stabilization
+        Segmental Rolling: Controlled articulation through specific spinal segments
+        DNS-Based Positional Training: Developmental positions with stabilization challenges
+
+Programming Guidelines
+    Exercise Selection Principles:
+        1. Movement Balance: Include flexion, extension, rotation, and lateral components
+        2. Anti-Movement Focus: Emphasize stability before mobility patterns
+        3. Breathing Integration: Coordinate respiration with appropriate bracing
+        4. Progressive Challenge: Systematic increase in stability demands before complexity
+        5. Functional Transfer: Ensure trunk training complements primary movement goals
+
+    Training Volume Recommendations:
+        Stabilization Focus: 5-8 exercises, 2-3 sets of 5-10 reps with 2-5 second holds
+        Strength Focus: 4-6 exercises, 3-4 sets of 6-12 reps at appropriate load
+        Endurance Focus: 3-5 exercises, 2-3 sets of 15-30 second holds or 15-20+ reps
+        Weekly Volume: 2-3 dedicated trunk sessions plus integration in main workouts
+
+    Exercise Order Strategy:
+        Anti-Movement First: Begin with stability challenges before dynamic work
+        Compound Integration: Progress to multi-joint patterns involving trunk
+        Positional Variety: Include exercises in various body positions (standing, kneeling, supine, prone)
+        Fatigue Management: Place precision movements early in session
+        Breathing Reset: Include respiratory focus between demanding segments

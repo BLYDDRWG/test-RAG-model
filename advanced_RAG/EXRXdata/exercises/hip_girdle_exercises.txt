@@ -1,0 +1,103 @@
+Comprehensive Hip Girdle Exercise Library
+
+Primary Hip Girdle Exercises
+    Vertical Loading Movements:
+        Back Squat: Barbell positioned across upper back, descending by bending knees and hips until thighs are at least parallel to floor
+        Front Squat: Barbell held across front deltoids, maintaining upright torso while performing squat pattern
+        Goblet Squat: Dumbbell or kettlebell held at chest height while performing squat movement
+        Box Squat: Squatting to a box or bench with emphasis on hip hinging and posterior chain activation
+        Overhead Squat: Full squat performed while supporting barbell in extended position overhead
+        Zercher Squat: Barbell cradled in elbow crease while performing squat pattern, emphasizing anterior core
+
+    Horizontal Loading Movements:
+        Conventional Deadlift: Hip hinge pattern lifting barbell from floor with shoulders over bar and narrow stance
+        Romanian Deadlift: Hip hinge with soft knee bend, lowering weight along shins with back flat
+        Sumo Deadlift: Wide stance deadlift with hands inside knees, more quad and adductor emphasis
+        Good Morning: Barbell across upper back, hinging at hips with slight knee bend until torso nearly parallel to floor
+        Hip Thrust: Shoulders on bench, barbell across hips, extending hips to full lockout
+        Kettlebell Swing: Dynamic hip hinge movement propelling kettlebell through arc using hip drive
+
+    Unilateral Lower Body Movements:
+        Bulgarian Split Squat: Rear foot elevated single-leg squat focusing on front leg loading
+        Lunges: Forward, reverse, walking, and lateral variations with bodyweight or external load
+        Step-Up: Single-leg elevation onto box or bench with controlled movement and minimal push-off
+        Single-Leg RDL: Unilateral hip hinge maintaining balance while extending free leg behind
+        Pistol Squat: Full single-leg squat with opposite leg extended forward
+        B-Stance Deadlift: Modified single-leg deadlift with non-working leg providing slight support
+
+    Hip-Specific Isolation:
+        Hip Abduction: Lateral leg movement against resistance using machine, cable, or band
+        Hip Adduction: Medial leg movement against resistance targeting inner thigh musculature
+        Glute Bridge: Supine hip extension with shoulders and feet on floor, isolating glutes
+        Banded Clamshells: Sidelying external rotation of hip with knees bent and feet together
+        Cable Pull-Through: Hip hinge with cable between legs, emphasizing glute contraction at lockout
+        Fire Hydrant: Quadruped position lifting bent knee laterally away from midline
+
+    Rotational/Multi-Planar Movements:
+        Lateral Lunge: Side-to-side lunging pattern loading adductors and lateral hip stabilizers
+        Curtsy Lunge: Crossing leg behind and across midline to engage multiple hip planes
+        Cossack Squat: Deep lateral lunge transitioning side to side with extended non-weight-bearing leg
+        Medicine Ball Rotational Slam: Hip rotation driving diagonal ball slam pattern
+        Cable Woodchop: Diagonal pulling pattern engaging hip rotation with core stabilization
+        Lateral Bound: Explosive side-to-side jumping developing lateral power and stabilization
+
+Secondary Hip Integration Exercises
+    Hip-Core Integration:
+        Deadbug Variations: Supine core stabilization with controlled leg movement (integrates hip girdle with core)
+        Bird-Dog: Quadruped opposite arm/leg raises maintaining pelvic position (integrates hip girdle with core)
+        Side Plank with Hip Abduction: Lateral plank while lifting top leg (integrates hip girdle with core)
+        Stir-the-Pot: Maintaining hip position in plank on stability ball with circular arm movement (integrates hip girdle with core)
+        Suitcase Carry: Asymmetrically loaded walking with anti-lateral flexion focus (integrates hip girdle with core)
+
+    Hip-Shoulder Integration:
+        Farmer's Carry: Bilateral loaded walking with upright posture (integrates hip girdle with shoulder girdle)
+        Overhead Walking Lunge: Split stance pattern while supporting weight overhead (integrates hip girdle with shoulder girdle)
+        Turkish Get-Up: Floor-to-standing movement sequence maintaining overhead weight (integrates hip girdle with shoulder girdle)
+        Medicine Ball Slam: Overhead to ground explosive movement (integrates hip girdle with shoulder girdle)
+        Single-Arm Overhead Lunge: Asymmetrical load-bearing lunge pattern (integrates hip girdle with shoulder girdle)
+
+    Full Body Integration:
+        Clean: Olympic-style pull from floor to front rack position
+        Snatch: Single-movement Olympic lift from floor to overhead
+        Thruster: Front squat into overhead press in fluid movement
+        Burpee: Floor-to-standing movement combining squat, plank, and jump
+        Kettlebell Turkish Get-Up: Complex movement sequence maintaining weight overhead from supine to standing
+        Man Maker: Combination of push-up and renegade row followed by squat and overhead press
+
+Specialized Training Methods
+    Pre-Exhaustion Techniques:
+        Hip Abduction to Squat: Isolation movement followed by compound lower body exercise
+        Glute Bridge to Hip Thrust: Bodyweight activation before loaded hip extension
+        Banded Monster Walk to Lunge: Band resistance movement preceding compound exercise
+
+    Post-Exhaustion Techniques:
+        Squat to Split Squat: Bilateral movement followed by unilateral burnout
+        Deadlift to Back Extension: Heavy compound pull followed by posterior chain isolation
+        Leg Press to Bodyweight Squat: Machine-based loading followed by metabolic bodyweight work
+
+    Time Under Tension Methods:
+        Tempo Squat: Controlled movement with prescribed eccentric/isometric/concentric timing
+        Pause Deadlift: Strategic pauses at knee height or mid-shin during pull
+        1.5 Rep Squats: Full repetition plus half repetition counted as single unit
+        Isometric Split Squat Hold: Static hold at bottom position of split squat
+
+Programming Guidelines
+    Exercise Selection Principles:
+        1. Balance Sagittal and Frontal Plane: Include both anteroposterior and lateral movement patterns
+        2. Unilateral Inclusion: Incorporate single-leg work in each training week
+        3. Progressive Overload: Systematically increase demand through load, range, volume, or complexity
+        4. Hip Extension Emphasis: Prioritize glute-dominant patterns for posterior chain development
+        5. Recovery Consideration: Allow 48-72 hours between high-intensity sessions for same movement pattern
+
+    Training Volume Recommendations:
+        Strength Focus: 3-5 sets of 3-6 reps at 80-90% intensity
+        Hypertrophy Focus: 3-4 sets of 8-12 reps at 65-80% intensity
+        Endurance Focus: 2-3 sets of 15-25 reps at 50-65% intensity
+        Weekly Volume: 12-20 total sets per movement pattern based on training status
+
+    Exercise Order Strategy:
+        Technical/Power First: Begin with most complex/explosive movements (cleans, snatches)
+        Compound Multi-Joint: Prioritize largest movement patterns (squats, deadlifts)
+        Unilateral Movements: Program after bilateral compound exercises
+        Isolation Work: Place hip-specific exercises later in session
+        Circuit Integration: Consider lower body/upper body alternating sequences for efficiency

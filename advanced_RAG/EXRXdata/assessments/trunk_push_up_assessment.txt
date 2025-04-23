@@ -1,0 +1,110 @@
+Trunk Stability Push-Up Assessment
+
+Description
+The Trunk Stability Push-Up Assessment evaluates core stability, anterior chain function, and 
+upper body strength in an integrated manner. This assessment provides insight into the body's 
+ability to maintain spinal neutrality during upper extremity loading and reveals compensatory 
+patterns in the kinetic chain that may contribute to shoulder dysfunction or lower back pain.
+
+Execution Protocol
+    Client begins in prone position with hands placed shoulder-width apart at shoulder level
+    Males start with thumbs aligned with forehead; females with thumbs aligned with chin
+    Feet remain together with toes in contact with floor
+    Client performs one controlled push-up while maintaining a rigid plank position
+    Assess from lateral view for movement quality and compensations
+
+Use Cases
+    Core Function Screening: Evaluates ability to stabilize spine during load transfer
+    Upper Body Assessment: Identifies pushing pattern dysfunction and upper body strength
+    Postural Analysis: Reveals anterior/posterior chain imbalances
+    Rehabilitation Monitoring: Tracks progress in shoulder/core rehabilitation
+    Performance Enhancement: Identifies limitations in force transfer from core to extremities
+
+Key Observations Through Tensegrity Lens
+
+    Muscle Balance Evaluation
+        Scapular Region: Winging, elevation, or protraction during movement
+        Core: Anterior pelvic tilt, lumbar hyperextension
+        Cervical Spine: Forward head posture or chin jutting
+        Upper Extremities: Elbow flaring, humeral internal rotation
+        Lower Extremities: Hip hiking or rotation during push
+
+    Length-Tension Relationships
+        Pectoralis minor/serratus anterior balance (scapular positioning)
+        Rectus abdominis/erector spinae relationship (spinal stability)
+        Latissimus dorsi restrictions (shoulder mechanics)
+        Upper trapezius dominance vs. lower trap activation
+
+    Force Coupling Assessment
+        Anterior core synergy (transverse abdominis, internal/external obliques)
+        Scapular stability (serratus anterior, middle/lower trapezius, rhomboids)
+        Pushing chain coordination (pectorals, triceps, anterior deltoid)
+
+Key Takeaways From Results
+    Movement Efficiency Indicators
+    Maintains rigid torso without sagging or arching
+    Scapulae remain stable without winging
+    Smooth, coordinated push without compensatory movements
+    Head, spine, and pelvis move as one unified segment
+    Full range of motion achieved without compensation
+
+Common Compensations and Root Causes
+
+    Low Back Sagging
+        Weak anterior core musculature
+        Poor motor control of transverse abdominis
+        Insufficient endurance in global stabilizers
+
+    Scapular Winging
+        Serratus anterior weakness or inhibition
+        Poor neuromuscular control of scapulothoracic region
+        Upper trapezius dominance
+    
+    Excessive Lumbar Extension
+        Tight hip flexors
+        Overactive lumbar erectors
+        Weak anterior core stabilizers
+    
+    Asymmetrical Weight Shift
+        Unilateral shoulder dysfunction
+        Latent motor control issues
+        Previous injury compensation patterns
+
+    Early Neck Extension
+        Poor cervical stabilization
+        Overactive upper trapezius
+        Insufficient deep neck flexor activation
+
+Next Steps Based on Results
+
+    Mobility Interventions
+        Thoracic: Extension mobilizations, seated rotations, foam roller extensions
+        Shoulder: Pec minor releases, latissimus dorsi stretching, posterior capsule mobility
+        Hip Flexors: Half-kneeling stretches, active isolated stretching, psoas releases
+        Scapular: Wall slides, thoracic mobility drills, corner stretches
+
+    Stability/Activation Work
+        Core: Dead bugs, hollow holds, anti-rotation exercises (Pallof press)
+        Scapular: Scapular push-ups, wall slides with protraction/retraction, prone Y's
+        Upper Body: Push-up plus variations, serratus punches, modified planks
+        Integration: Bear crawls, Turkish get-ups, half-kneeling cable chops
+
+    Movement Pattern Retraining
+        Regression Exercises
+            Inclined push-ups (wall, bench, or box)
+            Modified plank holds with hand taps
+            Half push-ups with proper core bracing
+
+        Integration Drills
+            Plank to push-up transitions
+            Quadruped diagonal reaches
+            Stability ball roll-outs
+    
+        Progressive Loading
+            Increasing time under tension
+            Decreasing base of support
+            Adding anti-rotation or perturbation elements
+
+By systematically addressing the findings through this tensegrity-based approach, trainers
+ can help clients develop integrated core stability, improved shoulder function, and 
+ efficient force transfer throughout the kinetic chain.

@@ -1,0 +1,154 @@
+Cardiovascular Assessments
+
+    Rockport Walk Test
+    Description
+    The Rockport Walk Test (also known as the 1-Mile Walk Test) is a submaximal cardiovascular assessment designed
+     to estimate VO2 max without requiring maximal exertion. This test measures the time required to walk one mile 
+    at a brisk, consistent pace while recording heart rate immediately upon completion.
+
+    Execution Protocol
+        Measure a flat 1-mile (1.609 km) course with clearly marked start/finish points
+        Client wears appropriate footwear and comfortable clothing
+        Perform brief 3-5 minute warm-up
+        Start heart rate monitor if available
+        Walk 1 mile as quickly as possible while maintaining consistent pace (not running)
+        Record completion time to nearest second
+        Record heart rate immediately at completion
+
+    Calculate estimated VO2 max using Rockport formula:
+        VO2 max = 132.853 - (0.0769 × weight in lbs) - (0.3877 × age) + (6.315 × gender) - (3.2649 × time in minutes) - (0.1565 × heart rate)
+        Gender: Male = 1, Female = 0
+
+    Use Cases
+        General Population Screening: Suitable for untrained individuals or older adults
+        Rehabilitation Settings: Safe for cardiac rehab and deconditioned clients
+        Baseline Cardiorespiratory Assessment: Establishes starting fitness levels with minimal risk
+        Progress Monitoring: Tracks cardiovascular improvements over time
+        Group Assessment: Can be administered to multiple clients simultaneously
+        Limited Equipment Settings: Requires minimal equipment (stopwatch, heart rate monitor)
+
+    Key Takeaways From Results
+        VO2 Max Classification (ml/kg/min)
+        Age	Excellent (M/F)	Good (M/F)	Average (M/F)	Fair (M/F)	Poor (M/F)
+        20-29	>53 / >49	43-52 / 38-48	34-42 / 31-37	25-33 / 24-30	<25 / <24
+        30-39	>49 / >45	39-48 / 34-44	31-38 / 28-33	23-30 / 22-27	<23 / <22
+        40-49	>45 / >42	36-44 / 31-41	29-35 / 25-30	20-28 / 19-24	<20 / <19
+        50-59	>43 / >38	34-42 / 28-37	26-33 / 22-27	18-25 / 16-21	<18 / <16
+        60+	>41 / >35	32-40 / 25-34	24-31 / 20-24	16-23 / 14-19	<16 / <14
+
+        Performance Indicators
+            Time to Completion: Primary performance metric
+            Heart Rate Response: Indicates cardiovascular efficiency
+            Rate of Perceived Exertion: Subjective effort assessment
+            Gait Consistency: Ability to maintain pace throughout test
+
+        Next Steps Based on Results
+            Excellent/Good Range: Progress to more advanced cardiovascular training, consider interval work or sport-specific conditioning
+            Average Range: Implement progressive cardiovascular program focused on increasing duration and intensity
+            Fair/Poor Range: Begin with low-intensity, consistent cardio training, focus on frequency and duration before intensity
+            High Heart Rate Response: Emphasize aerobic base building before high-intensity work
+            Inconsistent Pacing: Add steady-state training to develop pace awareness
+            Discomfort During Test: Address gait mechanics, footwear, or potential referral if pain present
+
+    Cooper 12 Minute Walk/Run Test
+    Description
+    The Cooper 12 Minute Walk/Run Test is a field-based cardiovascular assessment that measures the maximum 
+    distance a person can travel in 12 minutes. Developed by Dr. Kenneth Cooper in 1968 for military fitness 
+    assessment, this test provides a reliable estimate of VO2 max and aerobic capacity across various fitness 
+    levels.
+
+    Execution Protocol
+        Measure and mark a flat course (track, field) with visible distance markers
+        Client performs 5-10 minute dynamic warm-up
+        Explain pacing strategy (consistent effort throughout)
+        Start timer and begin walk/run
+        Provide time updates at 6 minutes and 2 minutes remaining
+        Record total distance covered at exactly 12 minutes
+        Record post-test heart rate and RPE (Rate of Perceived Exertion)
+
+    Calculate estimated VO2 max:
+        VO2 max (ml/kg/min) = (Distance in meters - 504.9) ÷ 44.73
+        
+    Use Cases
+        Athletic Performance Assessment: Evaluates aerobic capacity in team sport athletes
+        Fitness Program Benchmarking: Establishes cardiovascular baseline for conditioning programs
+        Group Assessment: Efficient for simultaneously testing multiple clients
+        Training Zone Establishment: Helps determine appropriate intensities for interval training
+        Cardiovascular Progress Tracking: Quantifies improvements in aerobic capacity
+        Military/Public Safety Preparation: Mimics occupational fitness standards
+    
+    Key Takeaways From Results
+        Distance Covered Classification (miles)
+        Age	Excellent (M/F)	Good (M/F)	Average (M/F)	Fair (M/F)	Poor (M/F)
+        13-19	>1.7 / >1.5	1.5-1.7 / 1.4-1.5	1.3-1.4 / 1.3-1.3	1.1-1.3 / 1.1-1.2	<1.1 / <1.1
+        20-29	>1.8 / >1.5	1.6-1.8 / 1.4-1.5	1.4-1.5 / 1.3-1.3	1.1-1.3 / 1.0-1.2	<1.1 / <1.0
+        30-39	>1.7 / >1.5	1.5-1.7 / 1.3-1.4	1.3-1.4 / 1.2-1.3	1.1-1.2 / 1.0-1.1	<1.1 / <1.0
+        40-49	>1.6 / >1.4	1.4-1.6 / 1.2-1.3	1.2-1.3 / 1.1-1.2	1.0-1.1 / 0.9-1.0	<1.0 / <0.9
+        50+	>1.5 / >1.3	1.3-1.5 / 1.1-1.2	1.1-1.2 / 1.0-1.1	0.9-1.0 / 0.8-0.9	<0.9 / <0.8
+    
+    Performance Analysis
+        Pacing Strategy: Consistency throughout vs. early fatigue
+        Running Economy: Efficiency of movement reflected in distance covered
+        Recovery Rate: Heart rate decline in first 2 minutes post-test
+        Perceived vs. Actual Effort: Relationship between RPE and performance
+
+    Next Steps Based on Results
+        Excellent/Good Range: Implement periodized training with varying intensities, incorporate threshold training
+        Average Range: Focus on tempo training, interval work, and gradual mileage increases
+        Fair/Poor Range: Establish consistent training frequency, build aerobic base with mixed walk/run intervals
+        Poor Pacing: Include pacework and consistent-effort training sessions
+        High RPE vs Performance: Address running economy and efficient movement patterns
+        Slow Recovery: Emphasize cardiac efficiency through heart rate-based training
+        Biomechanical Issues: Address gait inefficiencies that limit performance
+
+    Concept 2 2000 Meter VO2 Max Test
+    Description
+    The Concept 2 2000 Meter Rowing Test is a machine-based maximal effort assessment that measures cardiovascular capacity, power output, and muscular endurance. This test utilizes the standardized Concept 2 rowing ergometer to complete a 2000-meter distance in minimal time, providing performance metrics and estimated VO2 max values.
+
+    Execution Protocol
+        Configure Concept 2 rower with appropriate damper setting (typically 4-6)
+        Enter client information into monitor (weight, age, gender)
+        Set monitor for 2000m test
+        Client performs 5-10 minute warm-up with progressive intensity
+        Brief rest (1-2 minutes) before test start
+        Execute maximal effort 2000m row with consistent stroke rate
+        Record time, average watts, average pace (/500m), stroke rate
+
+    Calculate estimated VO2 max using Concept 2 formula:
+        VO2 max = 3.5 + (Avg Watts × 12) ÷ Body Weight in kg
+    
+    Use Cases
+        Cross-Training Assessment: Non-impact alternative to running tests
+        Upper/Lower Body Integration: Evaluates whole-body work capacity
+        Athletic Power Measurement: Quantifies power output and endurance
+        Rehabilitation Testing: Suitable for certain lower body injuries
+        Indoor Training Benchmark: Establishes metrics for rowing-based programming
+        Elite Rowing Performance: Sport-specific assessment for competitive rowers
+
+    Key Takeaways From Results
+        2000m Time Classification (minutes:seconds)
+        Age	Excellent (M/F)	Good (M/F)	Average (M/F)	Fair (M/F)	Poor (M/F)
+        20-29	<6:30 / <7:30	6:30-7:00 / 7:30-8:00	7:00-7:30 / 8:00-8:30	7:30-8:00 / 8:30-9:00	>8:00 / >9:00
+        30-39	<6:40 / <7:45	6:40-7:10 / 7:45-8:15	7:10-7:40 / 8:15-8:45	7:40-8:10 / 8:45-9:15	>8:10 / >9:15
+        40-49	<6:50 / <8:00	6:50-7:20 / 8:00-8:30	7:20-7:50 / 8:30-9:00	7:50-8:20 / 9:00-9:30	>8:20 / >9:30
+        50-59	<7:10 / <8:20	7:10-7:40 / 8:20-8:50	7:40-8:10 / 8:50-9:20	8:10-8:40 / 9:20-9:50	>8:40 / >9:50
+        60+	<7:30 / <8:40	7:30-8:00 / 8:40-9:10	8:00-8:30 / 9:10-9:40	8:30-9:00 / 9:40-10:10	>9:00 / >10:10
+    
+    Performance Metrics Analysis
+        Wattage Output: Average power production throughout test
+        Split Consistency: Evenness of 500m split times
+        Stroke Rate Efficiency: Relationship between stroke rate and speed
+        Force Curve Profile: Power application throughout rowing stroke
+        Energy System Utilization: Estimated contribution of aerobic/anaerobic pathways
+
+    Next Steps Based on Results
+        Excellent/Good Range: Implement specialized interval training, power development, technique refinement
+        Average Range: Focus on stroke efficiency, mixed-modal conditioning, moderate intensity endurance work
+        Fair/Poor Range: Establish technique foundation, build muscular endurance, gradually increase intensity
+        Inconsistent Splits: Train for pacing awareness and energy distribution
+        Power Drop-off: Build lactate tolerance through interval training
+        Technique Limitations: Address movement patterns through drill-based practice
+        Low Stroke Efficiency: Optimize power-to-stroke ratio through technical coaching
+
+Each of these cardiovascular assessments provides valuable but distinct information about a client's fitness 
+profile. Selection should be based on individual goals, fitness level, experience, and available equipment.

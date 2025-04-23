@@ -1,0 +1,19 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Copy requirements first for better caching
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy only necessary files
+COPY database/ /app/database/
+COPY .env .
+
+# Create directories for input and output data
+RUN mkdir -p /data/input /data/output
+
+# Default command - can be overridden
+WORKDIR /app/database
+ENTRYPOINT ["python", "database_service.py"]
+CMD ["help"]

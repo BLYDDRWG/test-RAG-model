@@ -1,0 +1,26 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Install base dependencies first
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Install evaluation-specific dependencies with pinned versions
+# NOTE: huggingface-hub MUST be installed before sentence-transformers
+RUN pip install --no-cache-dir huggingface-hub==0.12.1
+RUN pip install --no-cache-dir sentence-transformers==2.2.2 flask==2.3.3
+
+# Copy application code
+COPY ./evaluation /app/evaluation
+COPY ./llm /app/llm
+COPY ./core /app/core
+
+# Make sure directories exist
+RUN mkdir -p /app/evaluation && touch /app/__init__.py /app/evaluation/__init__.py
+
+# Set Python path for correct imports
+ENV PYTHONPATH=/app
+
+# Command to run the evaluation service
+CMD ["python", "/app/evaluation/eval_service.py"]

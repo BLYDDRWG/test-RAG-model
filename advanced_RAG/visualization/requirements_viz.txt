@@ -1,0 +1,4 @@
+# Only visualization-specific dependencies not in main requirements.txt
+matplotlib==3.7.1
+scikit-learn==1.2.2
+umap-learn==0.5.3

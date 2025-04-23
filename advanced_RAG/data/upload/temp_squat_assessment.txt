@@ -1,0 +1,104 @@
+Overhead Squat Assessment
+
+Description
+The Overhead Squat Assessment (OSA) is a fundamental movement screen that evaluates 
+whole-body mobility, stability, and movement patterns with the arms extended overhead. 
+This assessment provides valuable insights into the kinetic chain and reveals compensatory 
+movement patterns throughout the body.
+
+Execution Protocol
+    Client stands with feet shoulder-width apart
+    Arms fully extended overhead, biceps aligned with ears
+    Perform 5-10 slow squats to appropriate depth (ideally thighs parallel to floor)
+    Observe from anterior, lateral, and posterior views
+
+Use Cases
+    Initial Client Screening: Establishes baseline movement capacity
+    Program Design: Identifies priority areas for corrective exercise
+    Progress Monitoring: Tracks improvements in movement quality
+    Injury Prevention: Identifies risk factors before they cause dysfunction
+    Return-to-Activity Assessment: Evaluates readiness for progressive loading
+
+Key Observations Through Tensegrity Lens
+
+    Muscle Balance Evaluation
+        Feet: Excessive pronation or supination
+        Knees: Valgus collapse or lateral tracking
+        Lumbo-pelvic: Anterior/posterior tilting
+        Thoracic: Limited extension or rotation
+        Shoulders: Scapular winging or forward rounding
+    Length-Tension Relationships
+        Gastrocnemius/soleus complex restrictions (heels rising)
+        Hip flexor/hamstring imbalances (excessive lumbar flexion)
+        Latissimus dorsi/pectoralis tightness (arms falling forward)
+        Upper trapezius dominance vs. lower trap weakness
+    Force Coupling Assessment
+        Gluteus medius/TFL relationship (hip stability)
+        Core synergy between transverse abdominis and multifidus
+        Scapular stabilizers coordination (serratus anterior/lower trapezius)
+
+Key Takeaways From Results
+    Movement Efficiency Indicators
+    Maintains neutral spine throughout movement
+    Knees track over toes without collapsing inward
+    Arms remain aligned with ears
+    Weight distribution balanced through midfoot
+    Adequate depth achieved without compensation
+
+Common Compensations and Root Causes
+
+    Feet Turn Out/Heels Rise
+        Limited ankle dorsiflexion
+        Tight gastrocnemius/soleus complex
+
+    Knees Cave In (Valgus)
+        Weak gluteus medius/minimus
+        Overactive adductors/TFL
+        Poor neuromuscular control
+
+    Excessive Forward Lean
+        Tight hip flexors
+        Limited thoracic extension
+        Weak anterior core
+
+    Arms Fall Forward
+        Tight latissimus dorsi/pectorals
+        Weak mid/lower trapezius
+        Limited thoracic mobility
+
+    Asymmetrical Weight Shift
+        Potential structural issues
+        Unilateral dysfunction
+        Previous injury compensation patterns
+
+Next Steps Based on Results
+    Mobility Interventions
+        Ankles: Banded ankle mobilizations, calf/soleus stretching
+        Hips: 90/90 stretching, hip flexor releases, adductor mobility
+        Thoracic: Extension over foam roller, rotation drills, quadruped thoracic rotations
+        Shoulders: Pec minor release, latissimus stretching, wall slides
+    Stability/Activation Work
+        Feet/Ankles: Short foot exercises, single-leg balance progression
+        Knees/Hips: Glute activation (clamshells, bridges), hip abduction work
+        Core: Dead bugs, bird-dogs, Pallof press variations
+        Upper Back: Band pull-aparts, YTWLs, scapular setting exercises
+
+    Movement Pattern Retraining
+        Regression Exercises
+            Assisted squat patterns (TRX, wall)
+            Box squats to controllable depth
+            Goblet squat variations
+
+        Integration Drills
+            Split-stance movements
+            Half-kneeling overhead work
+            Farmer's carries with overhead reach
+
+        Progressive Loading
+            Bodyweight to external load
+            Stable to unstable environments
+            Simple to complex movement patterns
+
+By addressing the findings in this systematic approach, trainers can develop targeted 
+interventions that respect the tensegrity concept, optimizing joint function and movement 
+efficiency for their clients.

@@ -1,0 +1,145 @@
+version: '3.8'
+
+services:
+  # Document Processor API Service
+  doc-processor-api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+    container_name: doc-processor-api
+    volumes:
+      - ./data:/data
+      - ./.env:/app/.env
+    environment:
+      - PYTHONUNBUFFERED=1
+      - API_KEY=${API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DB_TOKEN=${DB_TOKEN}  # Add this
+      - ASTRA_DB_ENDPOINT=${ASTRA_DB_ENDPOINT}  # Add this
+    ports:
+      - "8000:8000"
+    networks:
+      - rag-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  # Database Management Service
+  rag-db-manager:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.database
+    container_name: rag-db-manager
+    volumes:
+      - ./data:/data
+      - ./.env:/app/.env
+    environment:
+      - PYTHONUNBUFFERED=1
+      - ASTRA_DB_ENDPOINT=${ASTRA_DB_ENDPOINT}
+      - DB_TOKEN=${DB_TOKEN}
+      - API_KEY=${API_KEY}
+    networks:
+      - rag-network
+    depends_on:
+      - doc-processor-api
+    restart: unless-stopped
+    command: ["serve"]
+
+  # LLM Query Service
+  llm-service:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.llm
+    container_name: rag-llm-service
+    volumes:
+      - ./data:/data
+      - ./.env:/app/.env
+    environment:
+      - PYTHONUNBUFFERED=1
+      - API_KEY=${API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    ports:
+      - "8008:8000"  # Expose port for direct API access
+    networks:
+      - rag-network
+    depends_on:
+      - doc-processor-api
+    restart: unless-stopped
+    command: ["uvicorn", "llm.query_service:app", "--host", "0.0.0.0", "--port", "8000"]
+
+  # User Interface Service
+  ui:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.ui
+    container_name: rag-ui
+    volumes:
+      - ./data:/data
+      - ./.env:/app/.env
+      - ./EXRXdata:/app/EXRXdata
+    environment:
+      - PYTHONUNBUFFERED=1
+      - API_KEY=${API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DOC_PROCESSOR_API_URL=http://doc-processor-api:8000
+    ports:
+      - "8501:8501"
+    networks:
+      - rag-network
+    depends_on:
+      - doc-processor-api
+    restart: unless-stopped
+
+  # Visualization Service
+  viz-service:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.viz
+    container_name: rag-viz-service
+    volumes:
+      - ./data:/data
+      - ./.env:/app/.env
+      - ./visualization:/app/visualization
+    environment:
+      - PYTHONUNBUFFERED=1
+      - API_KEY=${API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    ports:
+      - "8009:8000"  # Expose port for visualization API
+    networks:
+      - rag-network
+    depends_on:
+      - doc-processor-api
+      - llm-service
+    restart: unless-stopped
+    command: ["uvicorn", "visualization.viz_service:app", "--host", "0.0.0.0", "--port", "8000"]
+
+  # Evaluation Service
+  eval-service:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.eval
+    container_name: rag-eval-service
+    volumes:
+      - ./data:/data
+      - ./EXRXdata:/app/EXRXdata
+      - ./evaluation:/app/evaluation
+      - ./.env:/app/.env
+    environment:
+      - PYTHONUNBUFFERED=1
+      - API_KEY=${API_KEY}
+    ports:
+      - "8010:8000"  # Expose port for evaluation API
+    networks:
+      - rag-network
+    depends_on:
+      - llm-service
+    restart: unless-stopped
+    command: ["python", "/app/evaluation/eval_service.py"]
+
+networks:
+  rag-network:
+    driver: bridge

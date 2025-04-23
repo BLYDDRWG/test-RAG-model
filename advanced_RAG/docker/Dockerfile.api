@@ -1,0 +1,24 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy application code
+COPY ./api /app/api
+COPY ./core /app/core
+COPY ./database /app/database
+COPY ./llm /app/llm
+
+# Create __init__.py files to ensure Python recognizes modules
+RUN touch /app/__init__.py /app/api/__init__.py /app/core/__init__.py /app/database/__init__.py /app/llm/__init__.py
+
+# Set Python path for correct imports
+ENV PYTHONPATH=/app
+
+# Expose the API port
+EXPOSE 8000
+
+# Start the FastAPI server
+CMD ["uvicorn", "api.doc_processor_api:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -1,0 +1,21 @@
+Topic: sets and repitition templates for a goal of becomming or maintaining health.
+synopsys: sets and repetitions vary based on experience level of the individual, how long it's been since they last exercised, goals,
+ age and so on.
+Cases:
+1) beginner or maintenance of healthy: 2 sets of 8-12 repitiions per exercise, as the an initial weight is selected the rep range is
+ increased across time based on how the individual feels with each subsequent workout. once the weight can be done for 12 repetitions
+ the weight is increased and the repititions start back at 8. this cycle can be repeated indefinately. there should be at least a full
+ 24 hour rest before exercising the same muscle system again. the load range should be between 65% to 75% of the individuals one repetition
+ maximum.
+2) new movement being learned: 3 sets of 5 repetitions per exercise with light to moderate weight. this allows the body to acclimate to
+ the new movement. there should be at least a full 24 hour rest before exercising the same muscle system again. the load range should be
+between 65% to 75% of the individuals one repetition maximum. 
+3) building general strength and endurance: 3 to 5 sets of 10 to 15 repetitions per exercise. this will develop a balance of strength and
+ endurance of the skeletal muscle system. there should be between a 24 hour and 48 hour rest before exercising the same muscle system again
+  the load range should be between 75% to 85% of the individuals one repetition maximum.
+4) building muscle endurance: 2 sets of 20 repetitions per exercise. this will stimulate the development of muscle endurance. the load
+ range should be between 65% to 75% of the individuals one repetition maximum. there should be at least a between a 24 hour and 48 rest 
+before exercising the same muscle system again. 
+5) building muscle strength: 3 to 5 sets of 3 to 6 repetitions per exercise. will stimulate the development of muscle strength. the load 
+range should be between 85% to 95% of the individulas one repetition maximum. there should be between a  48 hour and 96 hour rest before
+ exercising the same muscle system again.

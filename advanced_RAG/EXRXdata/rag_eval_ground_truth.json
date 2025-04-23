@@ -1,0 +1,232 @@
+{
+    "evaluations": [
+      {
+        "id": "cardio-1",
+        "query": "What interventions should I implement for a 25-year-old male with a VO2 max of 22 ml/kg/min from the Rockport Walk Test?",
+        "ground_truth": {
+          "primary_intervention": "Low-intensity steady state cardio 3x/week",
+          "secondary_intervention": "Breathing exercises from mobility.txt",
+          "programming_approach": "4-Week Foundational Program from programming_rubrics.txt"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "cardio-2",
+        "query": "My client has a consistently high heart rate response during the Rockport Walk Test despite moderate effort. What programming approach is best?",
+        "ground_truth": {
+          "primary_intervention": "Aerobic base building 2-3x/week",
+          "secondary_intervention": "Heart rate zone training",
+          "programming_approach": "HR-guided progression from programming_rubrics.txt"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "cardio-3",
+        "query": "A 32-year-old female client completed the Cooper 12-minute test but showed poor pacing with significant slowing in the final 4 minutes. What intervention should I prioritize?",
+        "ground_truth": {
+          "primary_intervention": "Consistent-effort training sessions",
+          "secondary_intervention": "Tempo intervals at aerobic threshold",
+          "programming_approach": "2-Week Program from programming_rubrics.txt with emphasis on pacing"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "cardio-4",
+        "query": "What's the appropriate programming for a client with fair range performance (1.2 miles) on the Cooper 12-minute test?",
+        "ground_truth": {
+          "primary_intervention": "Tempo training 2x/week",
+          "secondary_intervention": "Interval work 1x/week",
+          "programming_approach": "4-Week Intermediate Program with gradual mileage increases"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "cardio-5",
+        "query": "My client shows inconsistent split times on the Concept 2 rower with good power but poor technique. What's the recommended approach?",
+        "ground_truth": {
+          "primary_intervention": "Pacing awareness training",
+          "secondary_intervention": "Energy distribution drills",
+          "programming_approach": "Technical focus program from rowing_progression.txt"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "movement-1",
+        "query": "What corrective strategy should I use for a client presenting with classic upper cross syndrome?",
+        "ground_truth": {
+          "primary_intervention": "Deep neck flexors/mid-back activation",
+          "secondary_intervention": "Pectoral/upper trap release",
+          "programming_approach": "2-Week Shoulder Mobility from mobility.txt"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "movement-2",
+        "query": "My client shows excessive forward lean during squat assessment. What interventions and programming modifications are appropriate?",
+        "ground_truth": {
+          "primary_intervention": "Ankle mobility work",
+          "secondary_intervention": "Thoracic extension drills",
+          "programming_approach": "Modified squat pattern with movement retraining"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "movement-3",
+        "query": "During push-up assessment, my client demonstrates lower back sagging after only 3 repetitions. What should I prioritize in their program?",
+        "ground_truth": {
+          "primary_intervention": "Transverse abdominis activation",
+          "secondary_intervention": "Anti-extension exercises",
+          "programming_approach": "2-Week Spine Stability from stability.txt"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "movement-4",
+        "query": "Assessment shows limited hip internal rotation with compensatory movement patterns. What's the best intervention sequence?",
+        "ground_truth": {
+          "primary_intervention": "90/90 hip mobilizations",
+          "secondary_intervention": "Core stabilization work",
+          "programming_approach": "Modified squat progressions"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "movement-5",
+        "query": "My client has forward head posture and scapular winging. Which issue should I address first and what exercises should I include?",
+        "ground_truth": {
+          "priority": "Address scapular winging first based on 'proximal stability before distal mobility' principle",
+          "primary_intervention": "Serratus anterior activation",
+          "secondary_intervention": "Deep neck flexor activation after scapular control",
+          "programming_approach": "3-Week Scapular Control Program followed by neck integration"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "combined-1",
+        "query": "My client has poor cardiovascular fitness (VO2 max in poor range), upper cross syndrome, and limited ankle dorsiflexion. How should I structure their initial programming?",
+        "ground_truth": {
+          "integrated_approach": "Begin with posture and mobility work, delay cardio intensity"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "combined-2",
+        "query": "Assessment results show good cardiovascular fitness but shoulder impingement and limited thoracic mobility. What's the most appropriate integrated approach?",
+        "ground_truth": {
+          "integrated_approach": "Maintain cardio while addressing upper quarter dysfunction"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "combined-3",
+        "query": "What's the best programming strategy for a client with lower cross syndrome who also demonstrates asymmetrical weight shift during push-ups and has average VO2 max?",
+        "ground_truth": {
+          "integrated_approach": "Begin with pelvic alignment before progressing to symmetrical loading patterns"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "combined-4",
+        "query": "My client shows limited hip internal rotation, feet turning out during squats, and power drop-off during rowing tests. How should I prioritize interventions?",
+        "ground_truth": {
+          "integrated_approach": "Focus on hip mobility/mechanics before power development"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "adaptation-1",
+        "query": "How should the programming approach for upper cross syndrome be modified for a beginner versus an advanced client?",
+        "ground_truth": {
+          "beginner_approach": "Emphasis on isolated correctives before integrated movements",
+          "advanced_approach": "Integration of correctives into complex movement patterns"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "adaptation-2",
+        "query": "What modifications should I make to cardiovascular programming for a client with poor recovery rate if they're training for rehabilitation versus performance?",
+        "ground_truth": {
+          "rehabilitation_approach": "Extend progression timeline, reduce intensity thresholds by 20%",
+          "performance_approach": "Emphasize specificity to sport energy systems"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      },
+      {
+        "id": "adaptation-3",
+        "query": "How frequently should I reassess movement patterns for a client with multiple postural issues, and what metrics indicate successful intervention?",
+        "ground_truth": {
+          "reassessment_frequency": "Reassess critical movement patterns every 2 weeks",
+          "success_metrics": "Progress to next programming phase when achieving 80% of mobility/stability goals"
+        },
+        "novel_insights": {
+          "captured": false,
+          "value": "",
+          "expert_rating": null
+        }
+      }
+    ]
+  }

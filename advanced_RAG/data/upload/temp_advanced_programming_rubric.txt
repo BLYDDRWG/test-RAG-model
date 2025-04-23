@@ -1,0 +1,217 @@
+Advanced Training Program Descriptions
+
+    Wendler 5/3/1 Program
+    Program Overview
+    Wendler 5/3/1 is a percentage-based, submaximal training program developed by Jim Wendler focused on long-term strength development through progressive overload. It emphasizes gradual progression, sustainability, and autoregulation through AMRAP (As Many Reps As Possible) sets.
+
+        Core Principles
+        Training based on percentage of Training Max (TM), typically 90% of true 1RM
+        Progressive cycles with prescribed percentages and rep schemes
+        AMRAP sets for autoregulation and progressive overload
+        Emphasis on compound movements: Squat, Bench Press, Deadlift, Overhead Press
+        Assistance work customized to individual needs
+        
+        Standard 4-Week Cycle Structure
+            Week 1: 5+ Week
+                Set 1: 65% of TM × 5 reps
+                Set 2: 75% of TM × 5 reps
+                Set 3: 85% of TM × 5+ reps (AMRAP)
+                Rest: 2-3 minutes between main lift sets
+                Assistance Work: 50-100 reps each of push, pull, and single-leg/core exercises
+
+            Week 2: 3+ Week
+                Set 1: 70% of TM × 3 reps
+                Set 2: 80% of TM × 3 reps
+                Set 3: 90% of TM × 3+ reps (AMRAP)
+                Rest: 3-5 minutes between main lift sets
+                Assistance Work: 50-100 reps each of push, pull, and single-leg/core exercises
+
+            Week 3: 5/3/1+ Week
+                Set 1: 75% of TM × 5 reps
+                Set 2: 85% of TM × 3 reps
+                Set 3: 95% of TM × 1+ reps (AMRAP)
+                Rest: 3-5 minutes between main lift sets
+                Assistance Work: 50-100 reps each of push, pull, and single-leg/core exercises
+
+            Week 4: Deload Week
+                Set 1: 40% of TM × 5 reps
+                Set 2: 50% of TM × 5 reps
+                Set 3: 60% of TM × 5 reps
+                Rest: 1-2 minutes between sets
+                Assistance Work: Reduced volume (30-50 reps per category)
+
+            Weekly Split Example
+                Monday: Squat (main), assistance work
+                Tuesday: Bench Press (main), assistance work
+                Thursday: Deadlift (main), assistance work
+                Friday: Overhead Press (main), assistance work
+            
+            Progression Model
+            After completing each 4-week cycle, increase Training Max:
+                Upper body lifts: +5 pounds (2.5kg)
+                Lower body lifts: +10 pounds (5kg)
+
+    French Contrast Method
+    Program Overview
+    The French Contrast Method is an advanced training protocol that combines complex and contrast training methodologies to develop explosive strength, reactive ability, and power output. This method leverages post-activation potentiation (PAP) by strategically sequencing exercises with varying force-velocity characteristics.
+
+        Core Principles
+        Integration of four distinct loading parameters within a single complex
+        Sequential performance from heavy strength to explosive plyometrics
+        Minimal rest between exercises within a complex
+        Complete recovery between complexes
+        Emphasis on neurological adaptations and rate of force development
+        Standard Complex Structure
+        Each French Contrast complex consists of four sequential exercises:
+
+        Exercise 1: Heavy Compound Lift (Strength Stimulus)
+            85-95% 1RM for 1-3 reps
+            Focus: Maximum recruitment of high-threshold motor units
+            Example: Back Squat, Deadlift, Bench Press
+        Exercise 2: Plyometric Movement (Explosive Response)
+            Bodyweight or light load for 3-5 reps
+            Focus: Maximum rate of force development
+            Example: Squat Jump, Broad Jump, Plyo Push-up
+        Exercise 3: Weighted Explosive Movement (Strength-Speed)
+            30-40% 1RM for 5-8 reps
+            Focus: Power production with external resistance
+            Example: Weighted Jump Squat, Speed Deadlift, Medicine Ball Throw
+        Exercise 4: Assisted/Accelerated Plyometric (Speed-Strength)
+            Bodyweight or assisted for 5-8 reps
+            Focus: Maximum movement velocity
+            Example: Band-assisted Jumps, Downhill Sprints, Drop Jumps
+
+        Weekly Programming Example for Lower Body
+        Week 1: Introduction Phase
+            Complex Sets: 2-3
+            Rest Between Exercises: 10-15 seconds
+            Rest Between Complexes: 3-4 minutes
+            Load: 85% for strength exercise
+            Focus: Technical execution and sequence learning
+            Volume: Lower (fewer repetitions per exercise)
+        Week 2: Development Phase
+            Complex Sets: 3-4
+            Rest Between Exercises: 10 seconds
+            Rest Between Complexes: 3-5 minutes
+            Load: 87-90% for strength exercise
+            Focus: Improving transition speed between exercises
+            Volume: Moderate
+        Week 3: Intensification Phase
+            Complex Sets: 4-5
+            Rest Between Exercises: Minimal (5-10 seconds)
+            Rest Between Complexes: 4-6 minutes
+            Load: 90-92% for strength exercise
+            Focus: Maximizing explosive output
+            Volume: Full prescribed repetition ranges
+        Week 4: Deload Week
+            Complex Sets: 1-2
+            Rest Between Exercises: 15-20 seconds
+            Rest Between Complexes: 3 minutes
+            Load: 80% for strength exercise
+            Focus: Quality movement with reduced volume
+            Volume: 50-60% of normal repetition counts
+
+        Implementation Guidelines
+            Frequency: 1-2 times per week per movement pattern
+            Duration: 4-8 week blocks followed by programming variation
+            Prerequisites: Solid strength base (typically 1.5× bodyweight squat for lower body)
+            Recovery: 72+ hours between sessions targeting same movement pattern
+            Integration: Can be used as a specialized block within larger periodization scheme
+
+    General Strength and Conditioning for Athletics
+    Program Overview
+    This comprehensive program is designed to develop all physical qualities required for athletic performance, balancing strength, power, conditioning, mobility, and recovery components. The focus is on creating a robust foundation that transfers to sport-specific demands while preventing injury.
+
+    Core Principles
+    Multi-quality development with strategic emphasis based on sport and season
+    Undulating periodization for balanced development
+    Integration of movement patterns over isolated muscles
+    Manageable training stress to complement sport practice
+    Regular monitoring and adjustment based on fatigue and performance
+    
+    12-Week Macrocycle Structure (Off-Season Focus)
+        
+        Mesocycle 1: General Preparation (Weeks 1-4)
+            Week 1: Assessment & Base Building
+                Strength: 3-4 sets × 8-10 reps at 65-70% 1RM
+                Power: Technical focus on jumping/landing mechanics, 3 sets × 5 reps
+                Conditioning: Aerobic base (HR 130-150 bpm), 2-3 sessions × 20-30 min
+                Rest: 60-90 seconds between strength sets, 2-3 minutes between power sets
+                Structure: 4 training days (2 upper, 2 lower)
+            Week 2: Volume Introduction
+                Strength: 4 sets × 8 reps at 70-75% 1RM
+                Power: Low-intensity plyometrics, 3-4 sets × 5 reps
+                Conditioning: Mixed aerobic/anaerobic (intervals at 80-85% max HR), 2-3 sessions
+                Rest: 90-120 seconds between strength sets
+                Structure: 4 training days with conditioning integration
+            Week 3: Progressive Loading
+                Strength: 4 sets × 6-8 reps at 75-80% 1RM
+                Power: Moderate plyometrics, 4 sets × 4-5 reps
+                Conditioning: Position-specific work capacity development, 2 sessions
+                Rest: 2-3 minutes between strength sets
+                Structure: 4-5 training days with specialized components
+            Week 4: Deload
+                Strength: 2-3 sets × 8 reps at 60-65% 1RM
+                Power: Technical maintenance, 2 sets × 4 reps
+                Conditioning: Low-intensity recovery work, 1-2 sessions
+                Rest: 60-90 seconds between sets
+                Structure: 3 training days with emphasis on recovery
+        
+        Mesocycle 2: Specific Preparation (Weeks 5-8)   
+            Week 5: Strength Emphasis
+                Strength: 5 sets × 5 reps at 80-85% 1RM
+                Power: Med ball throws and basic plyometrics, 3 sets × 4-6 reps
+                Conditioning: Sport-specific energy system work, 2 sessions
+                Rest: 2-3 minutes between strength sets
+                Structure: 4 training days (upper/lower or push/pull/legs)
+            Week 6: Power Development
+                Strength: 4 sets × 4-5 reps at 85% 1RM
+                Power: Complex training (strength + plyometric pairing), 3-4 sets
+                Conditioning: Repeated sprint ability development, 2 sessions
+                Rest: 2-3 minutes between strength sets, 3-4 minutes between complexes
+                Structure: 4 training days with integrated power emphasis
+            Week 7: Peak Loading
+                Strength: 5 sets × 3-5 reps at 85-90% 1RM
+                Power: Advanced plyometrics and ballistics, 3-4 sets × 3-5 reps
+                Conditioning: High-intensity interval training, 2 sessions
+                Rest: 3-5 minutes between main strength sets
+                Structure: 4 training days with quality emphasis
+            Week 8: Functional Deload
+                Strength: 3 sets × 5 reps at 70-75% 1RM
+                Power: Technical maintenance, 2-3 sets × 3 reps
+                Conditioning: Mixed low-intensity methods, 1 session
+                Rest: 2 minutes between sets
+                Structure: 3 training days with recovery emphasis
+        
+        Mesocycle 3: Pre-Competition (Weeks 9-12)
+            Week 9: Speed-Strength
+                Strength: 4 sets × 3 reps at 85-90% 1RM + 2-3 sets × 8 reps at 70%
+                Power: Advanced plyometrics and velocity-based training, 4-5 sets × 3-4 reps
+                Conditioning: Sport-specific work-to-rest ratios, 2 sessions
+                Rest: 3-5 minutes between main sets, 1-2 minutes for accessory work
+                Structure: 4 training days with performance emphasis
+            Week 10: Power Focus
+                Strength: 3-4 sets × 2-3 reps at 90% 1RM + reactivity work
+                Power: French contrast method or complex training, 3-4 sets
+                Conditioning: Competition-specific scenarios, 1-2 sessions
+                Rest: Full recovery between primary sets (3-5 minutes)
+                Structure: 3-4 training days with quality over quantity
+            Week 11: Competition Preparation
+                Strength: 3 sets × 3 reps at 85-90% 1RM
+                Power: Low-volume, high-quality explosive work, 2-3 sets × 3 reps
+                Conditioning: Strategic tapering with maintained intensity
+                Rest: Complete recovery between sets (3-5+ minutes)
+                Structure: 3 training days integrated with technical practice
+            Week 12: Performance Taper
+                Strength: 2 sets × 2-3 reps at 85-90% 1RM
+                Power: 2 sets × 3 reps of primary plyometric patterns
+                Conditioning: Active recovery only
+                Rest: Complete recovery between all efforts
+                Structure: 2-3 abbreviated training sessions
+
+    Flexible Implementation Guidelines
+        4-week mesocycle pattern can be adjusted to 3 weeks with compressed progressions for in-season maintenance
+        Exercise selection should emphasize movement patterns relevant to sport demands
+        Conditioning protocols should match energy system requirements of the specific sport
+        In-season programming requires reduced volume (typically 50-60% of off-season) with maintained intensity
+        Monitoring through readiness assessments, RPE, and performance metrics guides weekly adjustments

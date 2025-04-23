@@ -1,0 +1,23 @@
+# filepath: /Users/frankjones/Desktop/single file RAG/single_file_RAG/docker/Dockerfile.ui
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Make sure directories exist first
+COPY requirements.txt .
+
+# Make sure streamlit is explicitly installed
+RUN pip install --no-cache-dir -r requirements.txt && \
+    pip install --no-cache-dir streamlit astrapy
+
+# Fix COPY commands - ensure trailing slashes for directories
+COPY ./user_interface/ /app/user_interface/
+COPY ./llm/ /app/llm/
+COPY ./database/ /app/database/
+COPY .env /app/.env
+
+# Expose port for Streamlit
+EXPOSE 8501
+
+# Run the app with the full path to python
+CMD ["python", "-m", "streamlit", "run", "/app/user_interface/ui.py", "--server.port=8501", "--server.address=0.0.0.0"]

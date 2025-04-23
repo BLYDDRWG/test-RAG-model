@@ -1,0 +1,20 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+# Install base dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Install visualization-specific dependencies
+COPY ./visualization/requirements_viz.txt .
+RUN pip install --no-cache-dir -r requirements_viz.txt
+
+# Copy application code
+COPY ./visualization /app/visualization
+COPY ./core /app/core
+
+# Set Python path for correct imports
+ENV PYTHONPATH=/app
+
+CMD ["python", "/app/visualization/app.py"]

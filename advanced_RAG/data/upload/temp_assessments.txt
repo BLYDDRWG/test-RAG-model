@@ -1,0 +1,58 @@
+overhead squat assessment: {hip_girdle}, {knees}, {feet}
+step 1: have individual stand with feet shoulder width apart. holding a dowel in their hands, have the individual
+spread out their grip wide enough that the dowel is approximately waist height while keeping their arms straight. have the 
+individual raise the dowel overhead so that the dowel is just behind the head. 
+step 2: from this position have the individual squat as deep as they can slowly. this can be repeated to ensure accuracy of screen 
+and to adjust screen for the individual.
+adjustments: if the clients angle of the spine and angle of the shin do not match, the knees buckle in the clients thight does not 
+reach a depth parallel to the ground. elevate the heels 1 to 2 inches and have them repeat the movement.
+scoring: 
+system is: ideal = 3, functioning = 2, impaired = 1
+score of 3: shin and spine angle match, heels are on the ground, thigh is parallel to the ground, and dowel stays in start 
+position overhead.
+score of 2: shin and spine angle match, heels are elevated, thigh is parallel to the ground, and dowel stays in start 
+position overhead.
+score of 1: heels are on the elevated and at least one of the following: shin and spine angle do not match, thigh is not parallel
+to the ground, and dowel does not stay in start position overhead.
+if score is 3: highest score possible no need for further assessment.
+if score is 2: this is within healthy tolerances and may be representative of the individuals phisiology, can follow up with
+assessing hip girdle and foot mobility screens but not necessary.
+if score is 1: follow up question: is this due to impairment of one or more of the following: hip girdle,
+knees, or feet?
+
+trunk stability pushup: {shoulder_girdle}, {elbows}, {hands}
+step 1: have the client lay prone on the ground. have them place their hands directly under their shoulders. for men have them 
+slide their hands up until their thumbs are inline with their eyebrows. for women have them slide their hands up until their 
+thumbs are inline with their chin.
+step 2: have the client dig their toes into the ground, pick their knees up off the ground tighten the abdominal wall.
+step 3: press up from the floor.
+system is: ideal = 3, functioning = 2, impaired = 1
+score of 3: hands at appropriate level, straight body line as the client psuhes up and comes down.
+score of 2: hands below appropriate level, straight body line as the client psuhes up and comes down.
+score of 1: hands below appropriate level, loss of straight body line as the client psuhes up and comes down either at the 
+shoulder girdle or spine position.
+
+bird dog assessment: {spine}
+step 1: have the client in a bear crawl position on the floor. they must have their toes dug into the floor, knees unerneath hips, 
+and hands underneath shoulders.
+step 2: while maintaining a straight back have the client extend an arm and its same side leg until they are inline with the spine,
+then have the client attempt to touch elbow to knee underneath the torso, and then return to the start position.
+step 3: repeat on the other side.
+system is: ideal = 3, functioning = 2, impaired = 1
+score of 3: completed as perscribed.
+score of 2: completed while using opposite limbs instead of same side.
+score of 1: unable to complete assessment.
+
+Body oxygen level test:
+step 1: have the client sit upright in a comfortable position and find a natural cadence for breathing in and out through the nose.
+step 2: after a natural exhale have the client pinch their nose shut. the coach starts a stop watch.
+step 3: when the client feels a moderate to strong urge to breath they will unblock their nose, the time will be recorded, and return
+to the normal cadence of breathing. 
+cases for reassessment: if the client immediately returns to their natural cadence of brearthing they did not hold their breath long 
+enough. or if the the client takes more than 3 to 4 deep breaths to return to their natural breathing cadence.
+system is 40+ seconds = highly conditioned, 30-39 seconds = conditioned, 20-39 seconds = healthy, 10-19 seconds = sub-optimal,
+<10 seconds impaired breathing.
+catagorization of protocols based off times recorded:
+<10 seconds: seated breath work and walking practice, zone 1 and zone 2 cardio.
+10-19 seconds: all previous protocols. include zone 3 cardio.
+>20 seconds: all previous protocols. include zone 4 and zone 5 cardio.

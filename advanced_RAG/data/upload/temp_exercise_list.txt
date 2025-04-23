@@ -1,0 +1,39 @@
+list of approved exercises
+
+squating movements
+- compound movements: barbell back squat, bodyweight squat, box jump, bear hug squat, hack squat, smith machine squat, goblet squat
+
+- multi-joint movements: leg press
+
+- isolation movements: hip abduction, leg extension
+
+hinging:
+- compound movements: barbell deadlift, dumbbell deadlift, kettlebell deadlift, sandbag deadlift, broad jump, kettlebell swing  
+
+- multi-joint movements: hip thrust
+
+isolation movements: hip adduction, hamstring curl
+
+lunging:
+- compound movements: lunge, bulgarian split squat, split squat, jumping split squat, bounding, skater hops
+
+- multi-joint movements: single leg press, single leg deadlift
+
+- isolation movements: calf raise, toe curl 
+
+pushing:
+- compound movements: bench press, push up, dip, standing overhead press, incline press, incline fly, decline press, decline fly
+
+- multi-joint movements: machine chest press, machine shoulder press, machine fly, pullover
+
+- isolation movements: tricep extension, shoulder internal rotation, shoulder external rotation
+
+pulling:
+- compound movements:lat pull down, seated row, pullup, bent over row, upright row, trx row
+
+- multi-joint movements: machine row, machine fly, y raise, face pull
+
+- isolation movements: bicep curl, shoulder internal rotation, shoulder external rotation
+
+rotating:
+- compound movements: pallof press, hay baler, axe chop, bird dog, dead bug, halo, rotating lunges

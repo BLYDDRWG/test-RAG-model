@@ -1,0 +1,110 @@
+Comprehensive Shoulder Girdle Exercise Library
+
+Primary Shoulder Girdle Exercises
+    Vertical Pushing Movements:
+        Overhead Press (Barbell): Standing with barbell at shoulder height, press weight vertically overhead with full elbow extension
+        Dumbbell Shoulder Press: Seated or standing with dumbbells at shoulder height, press vertically with palms facing forward or neutral grip
+        Military Press: Strict standing barbell press with feet together, core braced, and minimal body movement
+        Pike Push-Up: Bodyweight exercise with hips elevated in inverted V position, lowering head toward ground
+        Handstand Push-Up: Advanced bodyweight movement performing vertical press while in handstand position against wall
+        Landmine Press: Using barbell with one end fixed to ground, press along angled path from shoulder level
+
+    Horizontal Pushing Movements:
+        Bench Press: Supine on bench, lowering barbell to mid-chest and pressing to full extension
+        Dumbbell Bench Press: Bench press variation with independent dumbbells for greater range of motion
+        Push-Up Variations: Standard, decline, incline, and weighted variations of bodyweight pressing movement
+        Chest Fly: Supine with arms extended outward, moving weights in arc pattern while maintaining slight elbow bend
+        Cable Chest Press: Standing chest press using cables for consistent tension throughout movement
+        Floor Press: Partial range bench press performed on floor to limit shoulder extension
+
+    Vertical Pulling Movements:
+        Pull-Up/Chin-Up: Bodyweight vertical pull from hanging position with overhand or underhand grip
+        Lat Pulldown: Cable machine exercise mimicking pull-up movement pattern with adjustable resistance
+        Straight-Arm Pulldown: Cable exercise with arms extended, focusing on latissimus dorsi activation
+        Rope Climb: Advanced bodyweight pulling exercise with rotational and grip demands
+        Single-Arm Lat Pulldown: Unilateral variation with increased core stability requirements
+        Assisted Pull-Up: Using resistance bands or machine assistance to modify difficulty of pull-up movement
+
+    Horizontal Pulling Movements:
+        Barbell Row: Bent-over position pulling barbell to lower chest/upper abdomen
+        Dumbbell Row: Unilateral pulling exercise with hand and knee supported on bench
+        Inverted Row: Bodyweight row performed under fixed bar with body angled beneath
+        Seated Cable Row: Seated pulling exercise using cable machine with various attachment options
+        T-Bar Row: Supported row variation using landmine setup or dedicated machine
+        Meadows Row: Unilateral row variation with enhanced range of motion using landmine setup
+
+    Shoulder Stabilization & Isolation:
+        Lateral Raise: Standing dumbbell or cable movement raising arms laterally to shoulder height
+        Front Raise: Anterior deltoid focus raising weight forward to shoulder height
+        Rear Delt Fly: Bent-over isolation movement targeting posterior deltoids
+        Upright Row: Vertical pull with narrow grip focusing on trapezius and lateral deltoids
+        Face Pull: Cable pull to face level with external rotation, targeting rear deltoids and rotator cuff
+        Shrug Variations: Vertical shoulder elevation exercises targeting upper trapezius with various implements
+
+    Rotational/Multi-Planar Movements:
+        Arnold Press: Dynamic shoulder press with rotational component from supinated to pronated position
+        Around-the-World: Circular movement pattern with light dumbbells through multiple planes
+        Cuban Rotation: External rotation movement beginning from hanging position into overhead press
+        Cable External/Internal Rotation: Isolated rotational movements for rotator cuff development
+        Kettlebell Halo: Circular movement around head with kettlebell for shoulder mobility and control
+        Medicine Ball Throws: Various throwing patterns developing power and multi-planar strength
+
+Secondary Shoulder Integration Exercises
+    Shoulder-Core Integration:
+        Renegade Row: Combined plank position with alternating dumbbell rows (integrates shoulder girdle with core)
+        Push-Up to Row: Push-up followed by single-arm row while maintaining plank (integrates shoulder girdle with core)
+        Standing Overhead Press: Free-standing barbell/dumbbell pressing requiring significant core stabilization (integrates shoulder girdle with core)
+        Turkish Get-Up: Complex movement transitioning from supine to standing while maintaining weight overhead (integrates shoulder girdle with core and hips)
+        Pallof Press Variations: Anti-rotation press focusing on shoulder positioning with core stability (integrates shoulder girdle with core)
+
+    Shoulder-Lower Body Integration:
+        Thruster: Front squat into overhead press combining lower body and shoulder drive (integrates shoulder girdle with lower body)
+        Push Press: Using leg drive to initiate overhead pressing movement (integrates shoulder girdle with lower body)
+        Dumbbell/Kettlebell Clean & Press: Full-body movement from ground to overhead position (integrates shoulder girdle with lower body)
+        Overhead Walking Lunge: Lunging pattern while maintaining weight overhead (integrates shoulder girdle with lower body)
+        Single-Arm Overhead Carry: Asymmetrical loaded carry with weight supported overhead (integrates shoulder girdle with lower body and core)
+
+    Shoulder-Total Body Integration:
+        Clean & Jerk: Olympic weightlifting movement from floor to overhead with complex shoulder demands
+        Snatch: Single-movement Olympic lift from floor to overhead in wide grip position
+        Wall Ball: Squat to overhead throwing movement combining lower body drive with shoulder projection
+        Battle Rope Exercises: Various wave and slam patterns requiring shoulder endurance and total body coordination
+        Burpee Pull-Up: Combination movement flowing between ground-based push and hanging pull
+        Muscle-Up: Advanced calisthenics movement transitioning from pull-up to dip position
+
+Specialized Training Methods
+    Pre-Exhaustion Techniques:
+        Lateral Raise to Overhead Press: Isolation movement immediately followed by compound exercise
+        Rear Delt Fly to Row: Pre-fatigue posterior chain before compound pulling movement
+        Cable Crossover to Push-Up: Isolate chest fibers before bodyweight compound movement
+
+    Post-Exhaustion Techniques:
+        Bench Press to Push-Up: Compound weighted movement followed by bodyweight burnout
+        Pull-Up to Straight-Arm Pulldown: Compound pull followed by isolated lat activation
+        Overhead Press to Front Raise: Pressing movement followed by isolation to maximize deltoid fatigue
+
+    Time Under Tension Methods:
+        Tempo Push-Up: Controlled bodyweight movement with prescribed eccentric/concentric timing
+        Paused Bench Press: Strategic pauses at various positions during pressing movement
+        Slow Eccentric Pull-Up: Emphasis on controlled lowering phase of vertical pulling movement
+        Isometric Ring Hold: Static hold positions using gymnastic rings for increased stabilization demand
+
+Programming Guidelines
+    Exercise Selection Principles:
+        1. Balance Pushing and Pulling: Maintain 1:1 ratio of horizontal and vertical patterns
+        2. Rotation Inclusion: Incorporate rotational components at least weekly
+        3. Progressive Overload: Systematically increase demand through load, volume, density or complexity
+        4. Variation Management: Strategic exercise rotation while maintaining movement patterns
+        5. Recovery Consideration: Allow 48-72 hours between high-intensity sessions for same movement pattern
+
+    Training Volume Recommendations:
+        Strength Focus: 3-5 sets of 3-6 reps at 80-90% intensity
+        Hypertrophy Focus: 3-5 sets of 8-12 reps at 65-80% intensity
+        Endurance Focus: 2-3 sets of 15-20+ reps at 50-65% intensity
+        Weekly Volume: 10-20 total sets per movement pattern based on training status
+
+    Exercise Order Strategy:
+        Power/Technical First: Begin with most complex/explosive movements
+        Compound Before Isolation: Prioritize multi-joint before single-joint exercises
+        Alternating Push/Pull: Consider antagonist supersets for efficiency
+        Rotation Integration: Include rotational elements throughout session
